@@ -1,55 +1,40 @@
-# weather-forecasting-dashboard
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weather Dashboard</title>
-</head>
-<body>
+Weather Forecasting Dashboard
+Project Overview
+The Weather Forecasting Dashboard is a simple, static web application that displays current weather and a 5-day forecast in a clean and accessible layout. Built purely with HTML, this dashboard showcases essential weather information and provides an easy way for users to visualize forecast data.
 
-    <h1>Weather Dashboard</h1>
-    
-    <h2>Current Weather</h2>
-    <div>
-        <span>🌞</span> 
-        <span>25°C</span> 
-    </div>
-    <h3>Current Location: India</h3>
-    
-    <h2>5-Day Forecast</h2>
-    <table>
-        <tr>
-            <th>Day</th>
-            <th>Weather</th>
-            <th>Temperature</th>
-        </tr>
-        <tr>
-            <td>Mon</td>
-            <td>☁️</td> 
-            <td>20°C</td> 
-        </tr>
-        <tr>
-            <td>Tue</td>
-            <td>🌧️</td> 
-            <td>18°C</td> 
-        </tr>
-        <tr>
-            <td>Wed</td>
-            <td>🌤️</td> 
-            <td>22°C</td> 
-        </tr>
-        <tr>
-            <td>Thu</td>
-            <td>🌩️</td> 
-            <td>19°C</td> 
-        </tr>
-        <tr>
-            <td>Fri</td>
-            <td>🌈</td> 
-            <td>21°C</td> 
-        </tr>
-    </table>
+Features
+Current Weather
+Displays current temperature with an icon representing the weather conditions (e.g., sunny, cloudy).
+Shows the current location set as India.
+5-Day Forecast
+Lists weather predictions for the next five days.
+Provides a table with each day’s weather icon and temperature for quick reference.
+How It Works
+This static dashboard uses pre-defined data to represent current weather and a 5-day forecast. It’s designed to serve as a template or prototype for a future, dynamic weather app. The layout is simple, with intuitive icons and a responsive format, making it an ideal project for HTML learning and resume building.
 
-</body>
-</html>
+How to Use
+View Current Weather: Shows temperature and weather conditions for the current location.
+View 5-Day Forecast: Displays forecasted weather and temperatures in a straightforward table format.
+Technologies Used
+HTML: Used to structure the content and layout.
+CSS: (Optional) Could be added for styling enhancements.
+Future Enhancements
+Integrate live weather data from an API to make the dashboard dynamic.
+Add more weather details, such as humidity or wind speed.
+Enhance the design with CSS for improved user experience.
+Example Interface
+Current Weather
+Current Location	Current Temperature	Weather Icon
+India	25°C	🌞
+5-Day Forecast
+Day	Weather	Temperature
+Mon	☁️	20°C
+Tue	🌧️	18°C
+Wed	🌤️	22°C
+Thu	🌩️	19°C
+Fri	🌈	21°C
+Contributing
+Contributions are welcome! Feel free to fork this repository and submit a pull request for any improvements or enhancements.
+
+This version reflects the static nature of your project and keeps the README straightforward for potential viewers on GitHub.
+       
