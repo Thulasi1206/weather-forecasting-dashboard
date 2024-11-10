@@ -1,4 +1,4 @@
-Weather Forecasting Dashboard
+#Weather Forecasting Dashboard
 Project Overview
 The Weather Forecasting Dashboard is a simple, static web application that displays current weather and a 5-day forecast in a clean and accessible layout. Built purely with HTML, this dashboard showcases essential weather information and provides an easy way for users to visualize forecast data.
 
